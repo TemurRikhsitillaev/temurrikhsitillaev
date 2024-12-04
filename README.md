@@ -70,9 +70,10 @@
 
 <details>
   <summary> My Waka Time</summary>
-  <a href="https://wakatime.com/@dendi4890"><img src="https://wakatime.com/photo/018d01d0-d259-490d-ae37-1dc8a9b3d5db?s=420&cache=false&time=1733311640.909573" alt="Total time coded since January 13 2024" width="100px" height="100px" /></a>
-  <br>
+  <br/>
+  <a href="https://wakatime.com/@dendi4890"><img src="https://wakatime.com/badge/user/018d01d0-d259-490d-ae37-1dc8a9b3d5db.svg" alt="Total time coded since January 13 2024" /></a>
+  <br/>
   
-[![StcAndroid's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@dendi4890&theme=radical)](https://wakatime.com/@professorDeveloper)
+  [![StcAndroid's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@dendi4890&theme=radical)](https://wakatime.com/@dendi4890)
 
 </details>
