@@ -62,7 +62,7 @@
 
 
 [telegram]: http://t.me/Dendi4890
-[mail]: rixsitillaevt@gmail.com
+[mail]: MAILTO:rixsitillaevt@gmail.com
 [twitter]: https://twitter.com/Dendi4890
 [linkedin]: https://www.linkedin.com/in/temur-rikhsitillaev-41496a25a/
 [github]: https://github.com/TemurRikhsitillaev
