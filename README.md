@@ -7,7 +7,8 @@
 - 🌍 Website: www.rikhsitillaev.uz
 - 📫 How to reach me: rixsitillaevt@gmail.com 
 - 🌱 I’m currently working **ReactJS/NextJS**
-- ⚡ Skills: ReactJS , NextJS , MySql , Git , Firebase , SOLID , RestApi , Tailwind , React Queries. 
+- ⚡  Skills: ReactJS , NextJS , MySql , Git , Firebase , SOLID , RestApi , Tailwind , React Queries.
+- 💼 Portfolio: <a href="https://docs.google.com/document/d/15elETtQsA0JMnStvjPDH_-oQqZStpi9Ar_ctfNyh368/edit?usp=sharing" target="_blank">Link</a>
 
 ### Connect with me:
 
